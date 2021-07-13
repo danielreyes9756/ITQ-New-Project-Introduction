@@ -1,15 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+using Testing.CalculatorTest;
 namespace Testing
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            TCalculator testCalculator = new TCalculator();
+            testCalculator.OnInit();
+            testCalculator.WhenAddIsCalled_ThenReturnAPlusB();
+            testCalculator.WhenSetModeIsCalledWithInvalidArgument_ThenAnArgumentExceptionIsThrown();
+            testCalculator.WhenSetModeIsCalledWithValidArgument_ThenGetModeIsCalled();
+            testCalculator.WhenTheConstructorIsCalledWithInvalidArgument_ThenAnArgumentOutOfRangeExceptionIsThrown();
+            testCalculator.WhenTheConstructorIsCalledWithNullArgument_ThenAnArgumentNullExceptionIsThrown();
         }
     }
 }

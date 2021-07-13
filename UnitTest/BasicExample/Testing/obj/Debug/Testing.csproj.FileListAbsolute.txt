@@ -1,0 +1,12 @@
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\bin\Debug\Testing.exe.config
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\bin\Debug\Testing.exe
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\bin\Debug\Testing.pdb
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\bin\Debug\ModLib.dll
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\bin\Debug\nunit.framework.dll
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\bin\Debug\ModLib.pdb
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\bin\Debug\nunit.framework.xml
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\obj\Debug\Testing.csproj.CopyComplete
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\obj\Debug\Testing.exe
+D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\Testing\obj\Debug\Testing.pdb
