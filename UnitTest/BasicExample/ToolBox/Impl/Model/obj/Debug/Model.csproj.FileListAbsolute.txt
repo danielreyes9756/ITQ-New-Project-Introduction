@@ -1,0 +1,6 @@
+D:\Programacion\dotnet\NSubsitute-test\ToolBox\Impl\Model\bin\Debug\Model.dll
+D:\Programacion\dotnet\NSubsitute-test\ToolBox\Impl\Model\bin\Debug\Model.pdb
+D:\Programacion\dotnet\NSubsitute-test\ToolBox\Impl\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Programacion\dotnet\NSubsitute-test\ToolBox\Impl\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Programacion\dotnet\NSubsitute-test\ToolBox\Impl\Model\obj\Debug\Model.dll
+D:\Programacion\dotnet\NSubsitute-test\ToolBox\Impl\Model\obj\Debug\Model.pdb

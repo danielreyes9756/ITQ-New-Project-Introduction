@@ -1,5 +1,0 @@
-D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\ModLib\bin\Debug\ModLib.dll
-D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\ModLib\bin\Debug\ModLib.pdb
-D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\ModLib\obj\Debug\ModLib.csproj.CoreCompileInputs.cache
-D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\ModLib\obj\Debug\ModLib.dll
-D:\Repositorios\ITQ-New-Project-Introduction\UnitTest\BasicExample\ModLib\obj\Debug\ModLib.pdb
